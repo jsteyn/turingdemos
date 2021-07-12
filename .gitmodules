@@ -1,0 +1,3 @@
+[submodule "turing-mlflow-demo"]
+	path = turing-mlflow-demo
+	url = git@github.com:jsteyn/turing-mlflow-demo.git
