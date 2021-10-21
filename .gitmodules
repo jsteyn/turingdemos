@@ -2,5 +2,5 @@
 	path = turing-mlflow-demo
 	url = git@github.com:jsteyn/turing-mlflow-demo.git
 [submodule "LearningMachineDemos"]
-	path = learningmachinedemos
+	path = LearningMachineDemos
 	url = git@github.com:jsteyn/LearningMachineDemos.git
